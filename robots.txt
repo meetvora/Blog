@@ -1,0 +1,3 @@
+User-agent: *
+Sitemap: http://blog.tecko.com/sitemap.xml
+Disallow: /ghost/
